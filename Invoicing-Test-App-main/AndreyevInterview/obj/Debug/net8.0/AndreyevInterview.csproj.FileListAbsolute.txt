@@ -242,8 +242,4 @@ C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\obj\
 C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\obj\Debug\net8.0\AndreyevInterview.pdb
 C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\obj\Debug\net8.0\AndreyevInterview.genruntimeconfig.cache
 C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\obj\Debug\net8.0\ref\AndreyevInterview.dll
-C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\bin\Debug\net8.0\publish\web.config
-C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\bin\Debug\net8.0\publish\AndreyevInterview.deps.json
-C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\bin\Debug\net8.0\publish\AndreyevInterview.runtimeconfig.json
-C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\bin\Debug\net8.0\publish\appsettings.Development.json
-C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\bin\Debug\net8.0\publish\appsettings.json
+C:\SYNTAQ\Invoicing-Test-App-main\Invoicing-Test-App-main\AndreyevInterview\obj\Debug\net8.0\AndreyevInterview.sourcelink.json
