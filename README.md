@@ -1,6 +1,6 @@
 Hi Bjarke,
 
-Thank you for extending my project deadline.
+Firstly, Thank you for giving me the opportunity to complete the project by extending the deadline.
 
 I found the project guideline a bit vague. However; I have completed the project with certain assumptions.
 
