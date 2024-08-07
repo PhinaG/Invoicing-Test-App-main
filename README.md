@@ -2,7 +2,7 @@ Hi Bjarke,
 
 Firstly, Thank you for giving me the opportunity to complete the project by extending the deadline.
 
-I found the project guideline a bit vague. However; I have completed the project with certain assumptions.
+I found the project guideline a bit vague. I raised my queries with Candace on Tuesday itself but it is taking long to get a feedback. However; I have completed the project with certain assumptions.
 
 1. Amended the given .net core project
 2. Added a new controller: ClientsController for Client CRUD operations
