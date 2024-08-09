@@ -7,9 +7,9 @@ I found the project guideline a bit vague. I raised my queries with Candace on T
 1. Updated the given .net core project
 2. Added a new controller: ClientsController for Client CRUD operations
 3. Added the missing CRUD operations to the InvoicesController
-4. I adopted the same coding pattern which was used in the given project
+4. I adopted the same coding pattern which was used in the given project (e.g. no excpetion handling, repositiories and private methods are added to the controller itself etc.)
 5. Added basic unit tests
-6. Updated the given vue app to meet the guideline's requirements
+6. Updated the given vue app to meet the guideline's requirements 
 
 Awaiting for your feedback.
 
